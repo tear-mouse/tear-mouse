@@ -50,6 +50,7 @@
 - 实践经验包括 **AI Agent 与 UI 的集成开发**，使用 Python 和 Qt 框架  
 
 ---
+注:新项目如训练类目预测模型等，在持续更新ing
 
 ## 📫 联系方式
 - 邮箱: 2749124042@qq.com  or  tangchang055@gmail.com  
