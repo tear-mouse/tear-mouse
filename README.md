@@ -19,7 +19,6 @@
 
 ## 📈 GitHub 动态统计
 
-![汤畅的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=tear-mouse&show_icons=true&hide=prs&theme=radical)
 ![Top 语言](https://github-readme-stats.vercel.app/api/top-langs/?username=tear-mouse&layout=compact&theme=radical)
 
 
