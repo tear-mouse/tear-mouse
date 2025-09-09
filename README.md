@@ -49,7 +49,15 @@
 - 实践经验包括 **AI Agent 与 UI 的集成开发**，使用 Python 和 Qt 框架  
 
 ---
-注:新项目如训练类目预测模型等，在持续更新ing
+### [类目预测](https://github.com/tear-mouse/predict_category)
+- **四级层次化分类**：每级独立分类头 + 级联约束，提高多层级预测一致性。
+- **增强型 Pooling**：CLS pooling + mean pooling 融合，充分利用文本表示。
+- **HierarchicalLoss**：结合 Focal Loss、级联约束和类别权重，有效处理类别不平衡。
+- **模块化设计**：训练、验证、测试、数据处理、损失函数均独立封装。
+- **可重复训练**：支持 GPU 加速、学习率调度、训练曲线可视化。
+- **动态类别适配**：支持不同层级数量，只需调整 `NUM_CLASSES_LIST`。
+
+注:新项目在持续更新ing
 
 ## 📫 联系方式
 - 邮箱: 2749124042@qq.com  or  tangchang055@gmail.com  
