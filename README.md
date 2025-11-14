@@ -1,7 +1,7 @@
 # Hi, I'm Tera 👋
 
 ## 🎓 About Me
-我是一名大四本科生，对 **自然语言处理、搜索技术和人工智能应用** 非常感兴趣。  
+我对 **自然语言处理、搜索技术和人工智能应用** 非常感兴趣。  
 在实习期间积累了丰富的 **项目经验**，喜欢将 AI 技术应用到实际问题中。
 <br>Senior undergraduate passionate about NLP, search technologies, and AI applications. Gained hands-on project experience during internships and enjoy applying AI to real-world problems.
 
